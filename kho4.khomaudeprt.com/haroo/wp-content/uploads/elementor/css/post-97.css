@@ -1,0 +1,109 @@
+.elementor-97 .elementor-element.elementor-element-a59efbf>.elementor-background-overlay {
+    background-image: url("http://haroofriends.com/wp-content/uploads/2021/03/nengt.png");
+    opacity: 0.5;
+}
+
+.elementor-97 .elementor-element.elementor-element-eb0e5ea .elementor-button {
+    fill: #333333;
+    color: #333333;
+    background-color: #BCE4DC;
+}
+
+.elementor-97 .elementor-element.elementor-element-4299706>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-97 .elementor-element.elementor-element-4299706>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-97 .elementor-element.elementor-element-5552a77>.elementor-background-overlay {
+    background-color: #CAF5EC;
+    opacity: 1;
+}
+
+.elementor-97 .elementor-element.elementor-element-5552a77 {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-97 .elementor-element.elementor-element-f1ff958.elementor-position-right .elementor-image-box-img {
+    margin-left: 15px;
+}
+
+.elementor-97 .elementor-element.elementor-element-f1ff958.elementor-position-left .elementor-image-box-img {
+    margin-right: 15px;
+}
+
+.elementor-97 .elementor-element.elementor-element-f1ff958.elementor-position-top .elementor-image-box-img {
+    margin-bottom: 15px;
+}
+
+.elementor-97 .elementor-element.elementor-element-f1ff958 .elementor-image-box-wrapper .elementor-image-box-img {
+    width: 100%;
+}
+
+.elementor-97 .elementor-element.elementor-element-f1ff958 .elementor-image-box-img img {
+    transition-duration: 0.3s;
+}
+
+.elementor-97 .elementor-element.elementor-element-aca03d4.elementor-position-right .elementor-image-box-img {
+    margin-left: 15px;
+}
+
+.elementor-97 .elementor-element.elementor-element-aca03d4.elementor-position-left .elementor-image-box-img {
+    margin-right: 15px;
+}
+
+.elementor-97 .elementor-element.elementor-element-aca03d4.elementor-position-top .elementor-image-box-img {
+    margin-bottom: 15px;
+}
+
+.elementor-97 .elementor-element.elementor-element-aca03d4 .elementor-image-box-wrapper .elementor-image-box-img {
+    width: 100%;
+}
+
+.elementor-97 .elementor-element.elementor-element-aca03d4 .elementor-image-box-img img {
+    transition-duration: 0.3s;
+}
+
+.elementor-97 .elementor-element.elementor-element-4e2b75f.elementor-position-right .elementor-image-box-img {
+    margin-left: 15px;
+}
+
+.elementor-97 .elementor-element.elementor-element-4e2b75f.elementor-position-left .elementor-image-box-img {
+    margin-right: 15px;
+}
+
+.elementor-97 .elementor-element.elementor-element-4e2b75f.elementor-position-top .elementor-image-box-img {
+    margin-bottom: 15px;
+}
+
+.elementor-97 .elementor-element.elementor-element-4e2b75f .elementor-image-box-wrapper .elementor-image-box-img {
+    width: 100%;
+}
+
+.elementor-97 .elementor-element.elementor-element-4e2b75f .elementor-image-box-img img {
+    transition-duration: 0.3s;
+}
+
+@media(max-width:767px) {
+    .elementor-97 .elementor-element.elementor-element-f1ff958 .elementor-image-box-img {
+        margin-bottom: 15px;
+    }
+    .elementor-97 .elementor-element.elementor-element-aca03d4 .elementor-image-box-img {
+        margin-bottom: 15px;
+    }
+    .elementor-97 .elementor-element.elementor-element-4e2b75f .elementor-image-box-img {
+        margin-bottom: 15px;
+    }
+}
+
+@media(min-width:768px) {
+    .elementor-97 .elementor-element.elementor-element-d24ea6f {
+        width: 51%;
+    }
+    .elementor-97 .elementor-element.elementor-element-4299706 {
+        width: 49%;
+    }
+}
